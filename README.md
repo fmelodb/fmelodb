@@ -24,6 +24,9 @@ I am a cloud engineer focused on data management. My interest here is to share f
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=blue)](https://linkedin.com/in/fmelodb)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:fmelodb+git@proton.me)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/universodosdados)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=wordpress&logoColor=white)](https://www.universodosdados.com)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@fmeloc)
 
 
 
