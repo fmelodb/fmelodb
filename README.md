@@ -5,7 +5,7 @@ Welcome to my profile! Here you find my projects, PoCs and demonstrations.
 I am a cloud engineer focused on data management. My interest here is to share fundamentals, best practices, and code on how data platforms can be used more efficiently by people writing software.
 
 - Extensive experience in cloud infrastructure and high-end enterprise systems
-- Special interest in AI, Graphs, and exploring different data type formats and database engines
+- Special interest in AI, Graphs, and exploring different data formats and database engines
 - Enjoy programming with Python, Java and SQL
 
 # Tech & Tools
